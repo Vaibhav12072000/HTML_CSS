@@ -1,0 +1,50 @@
+.uname{
+    font-weight: bold;
+    font-family:"Roboto";
+    font-size:20px;
+    text-emphasis-color: #000000;
+    
+}
+.tweet{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight: normal;
+    text-emphasis-color: #000000;
+    table-layout: auto;
+}
+.photo{
+    width: 130px;
+    height: 130px;
+    display: inline;
+    
+}
+
+.comment{
+    width: 20px;
+    height: 20px;
+    display: inline;
+}
+.like{
+    width: 20px;
+    height: 20px;
+    display: inline;
+}
+.retweet{
+    width: 20px;
+    height: 20px;
+    display: inline;
+}
+.count{
+    margin-left: 14px;
+    margin-right: 24px;
+    display: inline;
+    font-family:"Roboto";
+    font-size: 15px;
+}
+.content{
+    display: flexbox;
+    margin-left: 14px;
+}
+.temp{
+    display: flex;
+}
