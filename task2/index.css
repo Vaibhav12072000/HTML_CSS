@@ -1,0 +1,45 @@
+.bld{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: rgb(75, 194, 24);
+    color:white;
+}
+.smallbld{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: grey;
+}
+.tabler{
+    background-color: #f2f2f2;
+
+}
+.List{
+    color: rgba(161, 29, 29, 0.979);
+    font-weight: 400;
+}
+.caps{
+    text-transform: uppercase;
+}
+.text{
+   
+    overflow: scroll;
+}
+body{
+    background-color:rgb(251, 253, 174);
+}
+img{
+    border: dotted;
+}
+h1{
+    background-color: darkred;
+    color: rgb(251, 253, 174);
+    text-align: center;
+    font-family:sans-serif;
+}
+.ch{
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bold;
+}
