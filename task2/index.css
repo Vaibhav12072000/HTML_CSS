@@ -37,7 +37,7 @@ h1{
     color: rgb(251, 253, 174);
     text-align: center;
     font-family:sans-serif;
-    border-bottom: red;
+    border-bottom: red solid 20px;
 }
 .ch{
     text-transform: uppercase;
